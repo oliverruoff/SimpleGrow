@@ -5,7 +5,7 @@ from datetime import datetime
 ### ENTER HERE THE TIMES YOU WISH THE SYSTEM WATER YOUR PLANT
 TIMES_TO_WATER = ['08:00','19:00']
 ### ENTER HERE FOR HOW LONG THE PUMP SHOULD RUN PER WATERING (in seconds)
-PUMP_WATERING_TIME = 15
+PUMP_WATERING_TIME = 30
 
 # Pins used for water pump and humidity sensor
 PUMP_PIN = 18
